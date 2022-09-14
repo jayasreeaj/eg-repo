@@ -5,7 +5,7 @@
 # Define bash shell variable called var 
 # Avoid spaces around the assignment operator (=)
 var="Hello World"
-var1="how r u"
+var1="how are you..."
  
 # print it 
 echo "$var"
