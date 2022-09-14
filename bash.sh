@@ -9,8 +9,8 @@ var1="how r u"
  
 # print it 
 echo "$var"
-echo "$var2"
+echo "$var1"
  
 # Another way of printing it
 printf "%s\n" "$var"
-printf "%s\n" "$var2"
+printf "%s\n" "$var1"
